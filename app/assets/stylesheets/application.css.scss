@@ -48,6 +48,20 @@
 	} 
 }
 
+.table-striped th {
+    background-color: #d6d6c2;
+    color: white;
+}
+
+.search-results-table td {
+    border: 1px solid black;
+    text-align: center;	
+}
+
+.search-results-table th {
+    text-align: center;	
+}
+
 footer {
 	text-align: center;
 }
